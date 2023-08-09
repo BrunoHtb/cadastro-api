@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqaT1WGnFupWmGdg31erDLXmE7n7SG9pgHOzTag5zvq4K5v7fd9qobuKhExZPBDD6Uovg7k5E1CsjOOOxuDHAg==",
+  "success": true,
+  "projectFilePath": "D:\\Esteio_Programa\\_TesteAPI\\TesteAPI\\TesteAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
